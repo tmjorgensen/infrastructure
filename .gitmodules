@@ -1,0 +1,6 @@
+[submodule "scripts-1"]
+	path = scripts-1
+	url = https://github.com/tmjorgensen/shared-scripts-1.git
+[submodule "scripts-2"]
+	path = scripts-2
+	url = https://github.com/tmjorgensen/shared-scripts-2.git
